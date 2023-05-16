@@ -34,7 +34,7 @@
 
 
 ## 링크
-- [WEB 프로젝트 페이지](http://leeyj85.shop/GPTeachersDay)
-- [프로젝트 소개 노션](https://codestates.notion.site/AIB-17-Team-Project-1-2023-05-15-2023-05-25-9454e090dcdf4cf891c71c0b4bd2ba5e)
-- [1일차 노션](https://www.notion.so/1-1-23de33f86c034ca4836fb0d45bbad632)
-- [팀 노션페이지](https://www.notion.so/9891e517ff9a473491a1d4d2f3a87221?v=d776e70e97454284b0cc4c6988a77a51)
+- [WEB 프로젝트 페이지](http://leeyj85.shop/GPTeachersDay){:target="_blank"}
+- [프로젝트 소개 노션](https://codestates.notion.site/AIB-17-Team-Project-1-2023-05-15-2023-05-25-9454e090dcdf4cf891c71c0b4bd2ba5e){:target="_blank"}
+- [1일차 노션](https://www.notion.so/1-1-23de33f86c034ca4836fb0d45bbad632){:target="_blank"}
+- [팀 노션페이지](https://www.notion.so/9891e517ff9a473491a1d4d2f3a87221?v=d776e70e97454284b0cc4c6988a77a51){:target="_blank"}
