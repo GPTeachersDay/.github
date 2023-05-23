@@ -37,29 +37,28 @@
 　　　　　　'문제성' : {  
 　　　　　　　　'gitid' : 'JeseongMoon',  
 　　　　　　　　'MBTI' : 'ENFJ',  
-　　　　　　　　'Header' : True,  
+　　　　　　　　'Role' : [Header, EDA, Modeling],  
 　　　　　　　　},  
 　　　　　　'김동현' : {  
 　　　　　　　　'gitid' : 'Peregrine9363',  
 　　　　　　　　'MBTI' : 'INTP',  
-　　　　　　　　'Header' : False,  
+　　　　　　　　'Role' : [Modeling, Custom Accuracy],  
 　　　　　　　　},  
 　　　　　　'권순범' : {  
 　　　　　　　　'gitid' : 'kwonsoonbeom',  
 　　　　　　　　'MBTI' : 'ISTJ'  
-　　　　　　　　'Header' : False,  
+　　　　　　　　'Role' : [Modeling, Optimizer],  
 　　　　　　　　},  
 　　　　　　'이연준' : {  
 　　　　　　　　'gitid' : 'leeyeonjun85',  
 　　　　　　　　'MBTI' : 'ISTP'  
-　　　　　　　　'Header' : False,  
+　　　　　　　　'Role' : [EDA, Engineering],  
 　　　　　　　　},  
 　　　　},  
 　　}  
 
 
 
-## 링크
 ## 링크
 - <a href="http://leeyj85.shop/GPTeachersDay" target="_blank">WEB 프로젝트 페이지</a>
 - <a href="https://codestates.notion.site/AIB-17-Team-Project-1-2023-05-15-2023-05-25-9454e090dcdf4cf891c71c0b4bd2ba5e" target="_blank">프로젝트 노션</a>
