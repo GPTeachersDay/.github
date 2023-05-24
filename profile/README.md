@@ -195,7 +195,7 @@ def load_dataset():
 
 - $Loss(Sigmoid\;Cross\;Entropy)$
 
-![bi_loss](./colabo/img/bi_loss.png)
+![bi_loss](../img/bi_loss.png)
 
 >- $Precision = \frac{True \ Positive}{True \ Positive + False \ Positive}$
 >- $Recall = \frac{True \ Positive}{True \ Positive + False \ Negative}$
@@ -225,10 +225,10 @@ def load_dataset():
 <p>• Test Accuracy : 0.412</p>
 
 - $Loss(Softmax\;Cross\;Entropy)$
-![multi_loss](./colabo/img/multi_loss.png)
+![multi_loss](../img/multi_loss.png)
 
 - $Acc$ : Softmax 활성화 함수 기반의 일치여부를 비교합니다.
-![multi_loss](./colabo/img/multi_acc.png)
+![multi_loss](../img/multi_acc.png)
 
 
 
@@ -246,27 +246,27 @@ def load_dataset():
 ## Baseline Code
 - C사의 AI R&D 그룹에서 개발된 Numpy 기반의 레거시 코드 입니다.
 - 프로그램 동작 방식
-![multi_loss](./colabo/img/AI_progress.png)
+![multi_loss](../img/AI_progress.png)
 
 - AI Model 구현을 위한 레거시 코드 / [회귀] 
-![multi_loss](./colabo/img/legacy_1_1.png)
-![multi_loss](./colabo/img/legacy_1_2.png)
+![multi_loss](../img/legacy_1_1.png)
+![multi_loss](../img/legacy_1_2.png)
 
 - AI Model 구현을 위한 레거시 코드 / [이진 판단_V1] 
-![multi_loss](./colabo/img/legacy_2_1.png)
-![multi_loss](./colabo/img/legacy_2_2.png)
+![multi_loss](../img/legacy_2_1.png)
+![multi_loss](../img/legacy_2_2.png)
 
 - AI Model 구현을 위한 레거시 코드 / [이진 판단_V2]
-![multi_loss](./colabo/img/legacy_2_3.png)
-![multi_loss](./colabo/img/legacy_2_4.png)
+![multi_loss](../img/legacy_2_3.png)
+![multi_loss](../img/legacy_2_4.png)
 
 - AI Model 구현을 위한 레거시 코드 / [다중 분류]
-![multi_loss](./colabo/img/legacy_3_1.png)
-![multi_loss](./colabo/img/legacy_3_2.png)
+![multi_loss](../img/legacy_3_1.png)
+![multi_loss](../img/legacy_3_2.png)
 
 - AI Model 구현을 위한 레거시 코드 / [MLP]
-![multi_loss](./colabo/img/legacy_mlp_1.png)
-![multi_loss](./colabo/img/legacy_mlp_2.png)
+![multi_loss](../img/legacy_mlp_1.png)
+![multi_loss](../img/legacy_mlp_2.png)
 
 
 
