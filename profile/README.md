@@ -1,4 +1,4 @@
-# 🎉✨ Welcome GPTeacher's Day Project 😀
+# 🎉✨ Welcome `GPTeacher's Day` Project 😀
 
 
 <div style="text-align: center;">
@@ -9,7 +9,7 @@
 
 
 ## 목차
-- [🎉✨ Welcome GPTeacher's Day Project 😀](#-welcome-gpteachers-day-project-)
+- [🎉✨ Welcome `GPTeacher's Day` Project 😀](#-welcome-gpteachers-day-project-)
   - [목차](#목차)
   - [📜 스토리](#-스토리)
   - [프로젝트 목표](#프로젝트-목표)
