@@ -195,7 +195,7 @@ def load_dataset():
 
 - $Loss(Sigmoid\;Cross\;Entropy)$
 
-![bi_loss](https://github.com/GPTeachersDay/.github/blob/main/img/bi_loss.png?raw=true)
+![bi_loss](https://github.com/GPTeachersDay/TeamProject1/blob/main/colabo/img/bi_loss.png?raw=true)
 
 >- $Precision = \frac{True \ Positive}{True \ Positive + False \ Positive}$
 >- $Recall = \frac{True \ Positive}{True \ Positive + False \ Negative}$
@@ -225,11 +225,10 @@ def load_dataset():
 <p>• Test Accuracy : 0.412</p>
 
 - $Loss(Softmax\;Cross\;Entropy)$
-![multi_loss](https://github.com/GPTeachersDay/.github/blob/main/img/multi_loss.png?raw=true)
+![multi_loss](https://github.com/GPTeachersDay/TeamProject1/blob/main/colabo/img/multi_loss.png?raw=true)
 
 - $Acc$ : Softmax 활성화 함수 기반의 일치여부를 비교합니다.
-![multi_loss](https://github.com/GPTeachersDay/.github/blob/main/img/multi_acc.png?raw=true)
-
+![multi_loss](https://github.com/GPTeachersDay/TeamProject1/blob/main/colabo/img/multi_acc.png?raw=true)
 
 
 <h5>3. 자세한 탐색적 데이터분석 바로가기</h5>
@@ -246,27 +245,27 @@ def load_dataset():
 ## Baseline Code
 - C사의 AI R&D 그룹에서 개발된 Numpy 기반의 레거시 코드 입니다.
 - 프로그램 동작 방식
-![multi_loss](https://github.com/GPTeachersDay/.github/blob/main/img/AI_progress.png?raw=true)
+![multi_loss](https://github.com/GPTeachersDay/TeamProject1/blob/main/colabo/img/AI_progress.png?raw=true)
 
 - AI Model 구현을 위한 레거시 코드 / [회귀] 
-![multi_loss](https://github.com/GPTeachersDay/.github/blob/main/img/legacy_1_1.png?raw=true)
-![multi_loss](https://github.com/GPTeachersDay/.github/blob/main/img/legacy_1_2.png?raw=true)
+![multi_loss](https://github.com/GPTeachersDay/TeamProject1/blob/main/colabo/img/legacy_1_1.png?raw=true)
+![multi_loss](https://github.com/GPTeachersDay/TeamProject1/blob/main/colabo/img/legacy_1_2.png?raw=true)
 
 - AI Model 구현을 위한 레거시 코드 / [이진 판단_V1] 
-![multi_loss](https://github.com/GPTeachersDay/.github/blob/main/img/legacy_2_1.png?raw=true)
-![multi_loss](https://github.com/GPTeachersDay/.github/blob/main/img/legacy_2_2.png?raw=true)
+![multi_loss](https://github.com/GPTeachersDay/TeamProject1/blob/main/colabo/img/legacy_2_1.png?raw=true)
+![multi_loss](https://github.com/GPTeachersDay/TeamProject1/blob/main/colabo/img/legacy_2_2.png?raw=true)
 
 - AI Model 구현을 위한 레거시 코드 / [이진 판단_V2]
-![multi_loss](https://github.com/GPTeachersDay/.github/blob/main/img/legacy_2_3.png?raw=true)
-![multi_loss](https://github.com/GPTeachersDay/.github/blob/main/img/legacy_2_4.png?raw=true)
+![multi_loss](https://github.com/GPTeachersDay/TeamProject1/blob/main/colabo/img/legacy_2_3.png?raw=true)
+![multi_loss](https://github.com/GPTeachersDay/TeamProject1/blob/main/colabo/img/legacy_2_4.png?raw=true)
 
 - AI Model 구현을 위한 레거시 코드 / [다중 분류]
-![multi_loss](https://github.com/GPTeachersDay/.github/blob/main/img/legacy_3_1.png?raw=true)
-![multi_loss](https://github.com/GPTeachersDay/.github/blob/main/img/legacy_3_2.png?raw=true)
+![multi_loss](https://github.com/GPTeachersDay/TeamProject1/blob/main/colabo/img/legacy_3_1.png?raw=true)
+![multi_loss](https://github.com/GPTeachersDay/TeamProject1/blob/main/colabo/img/legacy_3_2.png?raw=true)
 
 - AI Model 구현을 위한 레거시 코드 / [MLP]
-![multi_loss](https://github.com/GPTeachersDay/.github/blob/main/img/legacy_mlp_1.png?raw=true)
-![multi_loss](https://github.com/GPTeachersDay/.github/blob/main/img/legacy_mlp_2.png?raw=true)
+![multi_loss](https://github.com/GPTeachersDay/TeamProject1/blob/main/colabo/img/legacy_mlp_1.png?raw=true)
+![multi_loss](https://github.com/GPTeachersDay/TeamProject1/blob/main/colabo/img/legacy_mlp_2.png?raw=true)
 
 
 
