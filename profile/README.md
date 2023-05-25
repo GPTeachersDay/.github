@@ -286,28 +286,28 @@ def load_dataset():
         <tr style="border-bottom : 1px solid gray;">
             <td style="width : 30%; text-align : center;">문제성</td>
             <td style="width : 40%; text-align : start;">
-                • Header <br> • EDA <br> • Modeling
+                • Header <br> • EDA : Pulsar Star <br> • Modeling : Abalone, Pulsar Star(SOTA) <br> • Video : Intro & Outro
             </td>
-            <td style="width : 30%; text-align : center;"><a class="nav-link" href="https://github.com/GPTeachersDay" target='_blank'>GitHub<i class="bi bi-github"></i></a></td>
+            <td style="width : 30%; text-align : center;"><a class="nav-link" href="https://github.com/JeseongMoon" target='_blank'>GitHub<i class="bi bi-github"></i></a></td>
         </tr>
         <tr style="border-bottom : 1px solid gray;">
             <td style="width : 30%; text-align : center;">김동현</td>
             <td style="width : 40%; text-align : start;">
-                • Modeling <br> • Custom Accuracy
+                • Modeling : Faulty Steel(SOTA) <br> • Custom Accuracy <br> • Video : Faulty Steel <br> • Modeling : Pulsar Star
             </td>
-            <td style="width : 30%; text-align : center;"><a class="nav-link" href="https://github.com/GPTeachersDay" target='_blank'>GitHub<i class="bi bi-github"></i></a></td>
+            <td style="width : 30%; text-align : center;"><a class="nav-link" href="https://github.com/Peregrine9363" target='_blank'>GitHub<i class="bi bi-github"></i></a></td>
         </tr>
         <tr style="border-bottom : 1px solid gray;">
             <td style="width : 30%; text-align : center;">권순범</td>
             <td style="width : 40%; text-align : start;">
-                • Modeling <br> • Optimizer
+                • PPT : Initiative Draft <br> • Video : Pulsar Star <br> • Modeling : Abalone <br> • Optimizer 
             </td>
-            <td style="width : 30%; text-align : center;"><a class="nav-link" href="https://github.com/GPTeachersDay" target='_blank'>GitHub<i class="bi bi-github"></i></a></td>
+            <td style="width : 30%; text-align : center;"><a class="nav-link" href="https://github.com/kwonsoonbeom" target='_blank'>GitHub<i class="bi bi-github"></i></a></td>
         </tr>
         <tr style="border-bottom : 1px solid gray;">
             <td style="width : 30%; text-align : center;">이연준</td>
             <td style="width : 40%; text-align : start;">
-                • EDA <br> • Engineering
+                • EDA <br> • Engineering <br> • Modeling : Abalone(SOTA) <br> • Video : Abalone
             </td>
             <td style="width : 30%; text-align : center;"><a class="nav-link" href="https://github.com/leeyeonjun85" target='_blank'>GitHub<i class="bi bi-github"></i></a></td>
         </tr>
